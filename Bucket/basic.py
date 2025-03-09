@@ -2,9 +2,7 @@ from fastapi import FastAPI, Header
 from typing import Optional
 from pydantic import BaseModel
 
-
 app = FastAPI()
-
 
 @app.get('/')
 async def read_root():
