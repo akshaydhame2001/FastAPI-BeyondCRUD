@@ -1,0 +1,4 @@
+\l : list databases
+\c bookly_db : connect to db
+\dt : list tables
+\d books : structure of tables
