@@ -21,6 +21,8 @@ async def read_root():
 # Path+Query parameter /greet/Akshay?age=24
 # dict return type hint
 # json.stringify() -> json.dumps(), json.parse() -> json.loads()
+# model_dump(): Pydantic object to Python Dict, model_dump_json()
+
 # @app.get('/greet/{name}')
 # async def greet_name(name:str, age:int) -> dict:
 #     return {"message": f"Hello {name}", "age":age}
