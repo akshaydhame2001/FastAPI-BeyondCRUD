@@ -2,3 +2,8 @@
 \c bookly_db : connect to db
 \dt : list tables
 \d books : structure of tables
+
+FastAPI Backend
+PostgreSQL DB
+SQLModel SQLAlchemy
+Alembic Migrations
