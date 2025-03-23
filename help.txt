@@ -7,3 +7,13 @@ FastAPI Backend
 PostgreSQL DB
 SQLModel SQLAlchemy
 Alembic Migrations
+
+{
+    "message": "Login Successful",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoidGVzdG1haWxAY28uY29tIiwidXNlcl91aWQiOiJkNDZkNGVjMC1iODNiLTRlOWMtOWQwNi05MjM1MzIxNDJiYjcifSwiZXhwIjoxNzQyNTg3NDQ3LCJqdGkiOiIwYzVjMTZmZC1lZjAyLTQxOTktODBiOC1hMDM5YjI5MWE0NzkiLCJyZWZyZXNoIjpmYWxzZX0.XTEDe6PFMK9bA1fUgNBmTASo4T7PoEwKdduI54147-k",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoidGVzdG1haWxAY28uY29tIiwidXNlcl91aWQiOiJkNDZkNGVjMC1iODNiLTRlOWMtOWQwNi05MjM1MzIxNDJiYjcifSwiZXhwIjoxNzQyNzU2NjQ3LCJqdGkiOiI4MWI3MTVlNi02ZjZjLTQ0ZjctOTkyNi1jY2IxZmUyNWQwN2MiLCJyZWZyZXNoIjp0cnVlfQ.gD3mXFEZ156Kv7IHZS5HnEBIlo9oUH_GlPxkrx3IgEY",
+    "user": {
+        "email": "testmail@co.com",
+        "uid": "d46d4ec0-b83b-4e9c-9d06-923532142bb7"
+    }
+} 21-03-2025
