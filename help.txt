@@ -7,3 +7,4 @@ FastAPI Backend
 PostgreSQL DB
 SQLModel SQLAlchemy
 Alembic Migrations
+Redis In-Memory DB
