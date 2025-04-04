@@ -20,3 +20,20 @@ async def token_in_blocklist(jti:str) -> bool:
     jti = await token_blocklist.get(jti)
 
     return jti is not None
+
+
+# admin
+[
+    "adding users",
+    "change roles",
+    "crud on users",
+    "book submissions",
+    "crud on reviews",
+    "revoking access",
+]
+
+# users
+["crud on their own notebook submissions",
+"crud on their reviews",
+"crud on their own accounts"
+]
